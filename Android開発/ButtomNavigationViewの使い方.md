@@ -154,14 +154,16 @@
    
    ```
 
-
-
-## 結果
-
-<img src="C:\Users\gouta\AppData\Roaming\Typora\typora-user-images\image-20200601200329996.png" width="200pm">
-
 ## 注意点
 
 - Navigationファイルで指定したIDとMenuファイルで指定するIDを対応させる。
 - findNavControllerはNavHostFragmentの要素を指定する。
   - findNavControllerは```import androidx.navigation.findNavController```を使用する。(他のパッケージにもいくつかある。。。)
+
+
+
+
+
+## 結果
+
+<img src="C:\Users\gouta\AppData\Roaming\Typora\typora-user-images\image-20200601200329996.png" width="200pm">
