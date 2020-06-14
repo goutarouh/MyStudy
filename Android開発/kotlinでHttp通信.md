@@ -60,6 +60,8 @@
 
 ```xml
 android:usesCleartextTraffic="true"
+
+tools:targetApi="m"もついでに追加すると成功することがある。
 ```
 
 
